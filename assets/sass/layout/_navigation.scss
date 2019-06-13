@@ -1,0 +1,45 @@
+.fixed-top{
+  background-color: $verde;
+  width: 213px;
+  height: 650px;
+  color: $morado;
+}
+
+.container__img{
+  position: absolute;
+  margin-top: 50%;
+  clip: rect(5px, 186px, 155px, 22px);
+}
+
+.container__div11{
+  text-align: center;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-top: 125%;
+}
+
+.container__div11__a{
+  font-family: $lato;
+  font-weight: $bold;
+  color: $morado;
+}
+
+.container__div11__a1{
+  font-family: $lato;
+  font-weight: $regular;
+  color: $morado;
+  margin-top: 1rem;
+}
+
+.container__div11__div{
+  margin-bottom: .7rem;
+}
+
+.container__div11__div1{
+margin-bottom: .7rem;
+margin-top: 18rem;
+}
+
+html {
+  scroll-behavior: smooth;
+}
