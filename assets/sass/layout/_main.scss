@@ -1,26 +1,6 @@
-.container__div2{
-  margin-top: 110px;
-}
 
-.container__div2__i{
-  margin-top: 30px;
-  margin-left: 10px;
-}
 
-.container__div2__div1{
-  margin-left: 3rem;
-}
-
-.container__div2__h1{
-  font-weight: $black;
-}
-
-.container__div2__p{
-  font-weight: $light;
-  margin-top: 60px;
-}
-
-.container__div2__div2{
+.container__div__div2{
   margin-left: 50px;
   margin-top: 50px;
 }
@@ -109,65 +89,11 @@
   margin-bottom: 4rem;
 }
 
-.container__div33{
-  margin-left: 3rem;
-  margin-top: 3rem;
-}
-
-.container__div33__h2{
-  font-weight: $black;
-  margin-bottom: 1rem;
-}
-
-.container__div33__p{
-  margin-bottom: 3rem;
-  font-weight: $light;
-
-}
-
-.container__div33__label1{
-  font-family: $lato;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  font-weight: $regular;
-}
-
-.container__div33__label2{
-  font-family: $lato;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  font-weight: $regular;
-}
-
-.container__div33__label3{
-  font-family: $lato;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  font-weight: $regular;
-}
-
-.container__div33__input1{
-  width: 700px;
-}
-
-.container__div33__input2{
-  width: 700px;
-}
-
-.container__div33__input3{
-  width: 700px;
-  padding-bottom: 100px;
-  margin-bottom: 8rem;
-
-}
-
-input, button, select, optgroup, textarea{
-  font-family: $lato;
-  padding-left: .5rem;
-
-}
-
 hr{
   margin-left: 7%;
   width: 700px;
+}
+
+.boldd{
+  font-weight: $bold;
 }
